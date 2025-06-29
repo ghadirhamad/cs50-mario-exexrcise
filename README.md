@@ -4,12 +4,13 @@ This repository contains solutions to **CS50 Problem Set 1 – Mario**:
 
 - `pyramid.c` — the **"less comfortable"** version:
   - Prints a **right-aligned pyramid** of `#` characters, based on user input height.
-  - Prompts repeatedly until the user provides a positive integer (typically 1–8) :contentReference[oaicite:1]{index=1}.
+  - Prompts repeatedly until the user provides a positive integer (typically 1–8).
+  - https://cs50.harvard.edu/x/2024/psets/1/mario/less/
 
 - `gap.c` — the **"more comfortable"** version:
   - Prints **two pyramids** with a central gap (two spaces), imitating Mario jumping platforms.
-  - Also re-prompts for a valid height between 1 and 8 :contentReference[oaicite:2]{index=2}.
-
+  - Also re-prompts for a valid height between 1 and 8
+  - https://cs50.harvard.edu/x/2024/psets/1/mario/more/
 ---
 
 ## 🛠 Usage
