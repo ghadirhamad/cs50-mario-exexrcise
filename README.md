@@ -20,10 +20,10 @@ make pyramid
 ./pyramid
 
 ## screenshots
-pyramid.c
+
 ![image](https://github.com/user-attachments/assets/8f99e225-4b66-4186-bfce-63c1abbb7760)
 
-gap.c
+
 ![image](https://github.com/user-attachments/assets/d0c11342-8d73-47ff-a4f4-3157188b35b1)
 
 
